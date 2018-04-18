@@ -4,7 +4,7 @@
 
 ## Project name: *acadAI*
 
-[Drive Link for complete package]()*(No need to clone the github repo)*
+[Drive Link for complete package](https://drive.google.com/open?id=1rqngY6jLpqIC8I09H5AMNBeybUO6tECQ)*(No need to clone the github repo)*
 
 **Requirements**
 * python 3.6.0
