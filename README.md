@@ -26,13 +26,13 @@
 * java 1.8.0
 
 **Installing the app on your device**
-1. Unpack the files given via drive link
-2. Move all files inside the dummy directory, henceforth the working directory.
-3. On the command line, run the command: ```python3 manage.py runserver```
+1. Unpack the files downloaded via drive link
+2. On command line type ```cd acadAI```
+3. On command line, run the command: ```python3 manage.py runserver```
 4. Open browser, and go to 127.0.0.1:8000
 
 **Citations**
-* [Reverse-Squad](https://github.com/sld/reverse-squad)
+* [Question Generation via over generation](http://www.cs.cmu.edu/~ark/mheilman/questions/)
 * [DrQA](https://github.com/facebookresearch/DrQA)
 * [nlg-eval](https://github.com/Maluuba/nlg-eval)
 
