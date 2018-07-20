@@ -40,3 +40,5 @@
 * Reverse-Squad
 * GloVe-1.2
 * Squad
+
+**[Project video](https://www.youtube.com/watch?v=v-0I6C99pyI)**
